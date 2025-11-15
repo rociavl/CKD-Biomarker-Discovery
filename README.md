@@ -1,12 +1,12 @@
-# Kidney Disease Prediction & Biomarker Discovery
+# Kidney disease prediction & biomarker discovery
 
 Machine learning pipeline for chronic kidney disease (CKD) prediction using clinical biomarkers and patient stratification analysis.
 
-## 🎯 Project Overview
+## 🎯 Project overview
 
 This project develops predictive models to identify patients at risk of chronic kidney disease using easily accessible clinical parameters. The goal is to enable early detection and intervention through computational biomarker analysis and patient stratification strategies.
 
-## 🔬 Key Features
+## 🔬 Key features
 
 - **Biomarker Identification**: Statistical analysis to identify key predictive clinical features
 - **Machine Learning Classification**: Multiple ML algorithms for CKD prediction
@@ -24,19 +24,19 @@ The analysis uses clinical data including:
 
 ## 🛠️ Methodology
 
-### Data Preprocessing
+### Data preprocessing
 - Missing value imputation
 - Feature scaling and normalization
 - Categorical encoding
 - Outlier detection and handling
 
-### Machine Learning Models
-- **Classification Algorithms**: Logistic Regression, Random Forest, SVM, XGBoost
-- **Feature Selection**: Recursive Feature Elimination, Statistical Testing
-- **Model Evaluation**: Cross-validation, ROC-AUC, Precision-Recall curves
-- **Clinical Metrics**: Sensitivity, specificity, positive/negative predictive values
+### Machine learning models
+- **Classification algorithms**: Logistic Regression, Random Forest, SVM, XGBoost
+- **Feature selection**: Recursive Feature Elimination, Statistical Testing
+- **Model evaluation**: Cross-validation, ROC-AUC, Precision-Recall curves
+- **Clinical metrics**: Sensitivity, specificity, positive/negative predictive values
 
-### Biomarker Analysis
+### Biomarker analysis
 - Statistical significance testing
 - Feature importance ranking
 - Correlation analysis
@@ -45,11 +45,11 @@ The analysis uses clinical data including:
 ## 📈 Results
 
 The analysis identifies key biomarkers for CKD prediction and evaluates their clinical utility:
-- **Top Predictive Features**: Creatinine levels, blood urea nitrogen, hemoglobin
-- **Model Performance**: Achieved high accuracy with clinically acceptable sensitivity/specificity
-- **Risk Stratification**: Developed patient risk categories for targeted interventions
+- **Top predictive features**: Creatinine levels, blood urea nitrogen, hemoglobin
+- **Model performance**: Achieved high accuracy with clinically acceptable sensitivity/specificity
+- **Risk stratification**: Developed patient risk categories for targeted interventions
 
-## 🔧 Technologies Used
+## 🔧 Technologies used
 
 - **Python**: Primary programming language
 - **Pandas & NumPy**: Data manipulation and numerical analysis
@@ -58,7 +58,7 @@ The analysis identifies key biomarkers for CKD prediction and evaluates their cl
 - **Scipy**: Statistical analysis
 - **Jupyter Notebook**: Interactive development environment
 
-## 📁 Repository Structure
+## 📁 Repository structure
 
 ```
 Biostatistics/
@@ -67,31 +67,31 @@ Biostatistics/
 └── README.md                                  # This file
 ```
 
-## 🚀 Getting Started
+## 🚀 Getting started
 
 ### Prerequisites
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn scipy jupyter
 ```
 
-### Running the Analysis
+### Running the analysis
 1. Clone the repository
 2. Open `Proyecto1_Rocio_Ainhoa_final.ipynb` in Jupyter Notebook
 3. Run all cells to reproduce the analysis
 
-## 📋 Key Findings
+## 📋 Key findings
 
-- **Early Detection**: Machine learning models can effectively predict CKD using routine clinical tests
-- **Biomarker Panel**: Identified minimal set of biomarkers for cost-effective screening
-- **Clinical Impact**: Results support development of automated screening tools for healthcare settings
-- **Patient Stratification**: Risk-based categorization enables personalized treatment approaches
+- **Early detection**: Machine learning models can effectively predict CKD using routine clinical tests
+- **Biomarker panel**: Identified minimal set of biomarkers for cost-effective screening
+- **Clinical impact**: Results support development of automated screening tools for healthcare settings
+- **Patient stratification**: Risk-based categorization enables personalized treatment approaches
 
-## 🎯 Clinical Applications
+## 🎯 Clinical applications
 
-- **Screening Programs**: Early identification of at-risk patients
-- **Resource Allocation**: Prioritize high-risk patients for specialist referral
-- **Treatment Planning**: Inform clinical decision-making with risk scores
-- **Public Health**: Population-level CKD surveillance and prevention strategies
+- **Screening programs**: Early identification of at-risk patients
+- **Resource allocation**: Prioritize high-risk patients for specialist referral
+- **Treatment planning**: Inform clinical decision-making with risk scores
+- **Public health**: Population-level CKD surveillance and prevention strategies
 
 ## 👥 Authors
 
@@ -103,6 +103,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy jupyter
 
 **Ainhoa Fraile Pulido**
 - Biomedical Engineering Student, UPC
+- Email: ainhoafp16@hotmail.com
+- LinkedIn: [Ainhoa Fraile Pulido](https://www.linkedin.com/in/ainhoa-fraile-pulido-b85313339/)
+- GitHub: [@Ainhoafp](https://github.com/Ainhoafp)
 
 ## 📄 License
 
