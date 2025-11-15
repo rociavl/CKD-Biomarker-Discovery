@@ -105,7 +105,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy jupyter
 - Biomedical Engineering Student, UPC
 - Email: ainhoafp16@hotmail.com
 - LinkedIn: [Ainhoa Fraile Pulido](https://www.linkedin.com/in/ainhoa-fraile-pulido-b85313339/)
-- GitHub: [@Ainhoafp](https://github.com/Ainhoafp)
+- GitHub: [@ainhoafp](https://github.com/ainhoafp)
 
 ## 📄 License
 
